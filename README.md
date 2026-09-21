@@ -14,4 +14,4 @@
 
 ## Favorite Movie
 
-*dazed and confused*
+*Dazed and Confused*

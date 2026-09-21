@@ -1,5 +1,4 @@
 # my-simple-webpage
-# My Simple Webpage
 
 ## My Favorite Things
 
@@ -12,7 +11,3 @@
 1. Italy
 2. Australia
 3. Japan
-
-This is *italic text*.
-
-This is **bold text**.
